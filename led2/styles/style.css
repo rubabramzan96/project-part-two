@@ -1,0 +1,17 @@
+.main-body {
+	width: 90%;
+	margin: 30px auto;
+	border: 1px solid grey;
+	border-radius: 15px;
+}
+
+.title {
+	text-align: center;
+}
+.action {
+	padding-bottom: 15px;
+}
+body
+{
+	background-color: #ffe0cc!important;
+}
